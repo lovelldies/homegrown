@@ -1,0 +1,3 @@
+# Crawl everything
+User-agent: *
+Disallow:
